@@ -1,5 +1,5 @@
 # hello-world
-repository for ideas and resources
+test repository for resources and ideas
 
 Hi All!
 
